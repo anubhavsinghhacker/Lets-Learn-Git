@@ -1,3 +1,3 @@
 #!/bin/bash
 
-printf "Anubhav Singh is good boy"
+printf "Anubhav Singh is good boy :)"
